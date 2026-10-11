@@ -1,0 +1,6 @@
+{
+  "name": "Sổ Quỹ Lớp 10A13",
+  "description": "Ứng dụng quản lý quỹ lớp 10A13: thu tiền, chi tiêu, số dư tức thì, thao tác nhanh trên điện thoại, đồng bộ Google Sheets và chia sẻ đối soát cho cả lớp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
